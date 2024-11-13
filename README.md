@@ -1,4 +1,4 @@
-# EE260C Final Project: Build Your Own Stack
+# EE260 Final Project: Build Your Own Stack
 
 Please refer to the instructions [here](https://docs.google.com/document/d/1yBZPA9JlmxO3fEc5uF3KMu-n24RdYa9P3uA3NcOivqY/edit?usp=sharing)
 
